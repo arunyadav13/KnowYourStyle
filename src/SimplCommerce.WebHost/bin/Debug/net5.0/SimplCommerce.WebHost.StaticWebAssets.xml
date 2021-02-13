@@ -1,0 +1,32 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/SimplCommerce.Module.ActivityLog" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.ActivityLog\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Catalog" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Catalog\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Cms" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Cms\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Comments" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Comments\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Contacts" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Contacts\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Core" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Core\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Inventory" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Inventory\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Localization" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Localization\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.News" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.News\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Orders" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Orders\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.PaymentBraintree" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.PaymentBraintree\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.PaymentCashfree" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.PaymentCashfree\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.PaymentCoD" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.PaymentCoD\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.PaymentMomo" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.PaymentMomo\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.PaymentNganLuong" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.PaymentNganLuong\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.PaymentPaypalExpress" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.PaymentPaypalExpress\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Payments" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Payments\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.PaymentStripe" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.PaymentStripe\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Pricing" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Pricing\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.ProductComparison" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.ProductComparison\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.ProductRecentlyViewed" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.ProductRecentlyViewed\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Reviews" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Reviews\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Search" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Search\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Shipments" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Shipments\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Shipping" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Shipping\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.ShippingTableRate" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.ShippingTableRate\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.ShoppingCart" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.ShoppingCart\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Tax" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Tax\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.Vendors" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.Vendors\wwwroot\" />
+  <ContentRoot BasePath="_content/SimplCommerce.Module.WishList" Path="D:\KnowYourStyle\src\Modules\SimplCommerce.Module.WishList\wwwroot\" />
+</StaticWebAssets>
